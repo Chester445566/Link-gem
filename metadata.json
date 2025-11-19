@@ -1,0 +1,5 @@
+{
+  "name": "LinkGen AI Recruiter",
+  "description": "An intelligent job hunting assistant that integrates LinkedIn-style feeds with Gemini analysis, automated Gmail drafting, and smart priority alerts.",
+  "requestFramePermissions": []
+}
